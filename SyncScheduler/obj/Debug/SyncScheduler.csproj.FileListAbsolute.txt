@@ -1,0 +1,15 @@
+D:\projects\SyncScheduler\SyncScheduler\bin\Debug\SyncScheduler.exe.config
+D:\projects\SyncScheduler\SyncScheduler\obj\Debug\SyncScheduler.csprojResolveAssemblyReference.cache
+D:\projects\SyncScheduler\SyncScheduler\obj\Debug\SyncScheduler.Main.resources
+D:\projects\SyncScheduler\SyncScheduler\obj\Debug\SyncScheduler.Properties.Resources.resources
+D:\projects\SyncScheduler\SyncScheduler\obj\Debug\SyncScheduler.csproj.GenerateResource.Cache
+D:\projects\SyncScheduler\SyncScheduler\bin\Debug\SyncScheduler.exe
+D:\projects\SyncScheduler\SyncScheduler\bin\Debug\SyncScheduler.pdb
+D:\projects\SyncScheduler\SyncScheduler\bin\Debug\AeraClass.dll
+D:\projects\SyncScheduler\SyncScheduler\bin\Debug\AeraClass.pdb
+D:\projects\SyncScheduler\SyncScheduler\obj\Debug\SyncScheduler.exe
+D:\projects\SyncScheduler\SyncScheduler\obj\Debug\SyncScheduler.pdb
+D:\projects\SyncScheduler\SyncScheduler\bin\Debug\aera.ini
+D:\HDD\projects\SyncScheduler\SyncScheduler\bin\Debug\SyncScheduler.exe.config
+D:\HDD\projects\SyncScheduler\SyncScheduler\obj\Debug\SyncScheduler.exe
+D:\HDD\projects\SyncScheduler\SyncScheduler\obj\Debug\SyncScheduler.pdb
